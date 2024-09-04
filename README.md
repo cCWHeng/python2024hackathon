@@ -151,6 +151,8 @@ Members:
 2. Chung Wei Heng
 3. Peh Le Hui
 
+URL: https://github.com/titah-titanium/PSC-python-hackathon-2024
+
 ## The Triple Entente
 
 Members: 
@@ -185,4 +187,4 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 
 URL: https://github.com/jaz-lynn/pygame.git
 
-URL: https://github.com/titah-titanium/PSC-python-hackathon-2024
+
